@@ -1,0 +1,8 @@
+D:\cocoin\log4net\build\bin\log4net\net\2.0\release\log4net.dll
+D:\cocoin\log4net\build\bin\log4net\net\2.0\release\log4net.xml
+D:\cocoin\log4net\src\log4net\obj\Release\log4net.vs2010.csprojResolveAssemblyReference.cache
+D:\cocoin\log4net\src\log4net\obj\Release\log4net.dll
+D:\code\log4net\build\bin\log4net\net\2.0\release\log4net.dll
+D:\code\log4net\build\bin\log4net\net\2.0\release\log4net.xml
+D:\code\log4net\src\log4net\obj\Release\log4net.dll
+D:\code\log4net\src\log4net\obj\Release\log4net.vs2010.csprojResolveAssemblyReference.cache
